@@ -1,0 +1,27 @@
+.itemsWidgetContainer {
+  display: flex;
+  align-items: center;
+  height: 1.5rem;
+}
+
+.cartIcon {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: azure;
+  padding: 0.25rem 0.5rem;
+
+  svg {
+    height: 1rem;
+    width: 1rem;
+  }
+}
+
+.itemsCount {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,19 @@
+.logo {
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+.navbarContainer {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem;
+}
+
+.categories {
+  list-style: none;
+  display: flex;
+  gap: 0.5rem;
+}
