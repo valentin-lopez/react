@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1",
+    "name": "Café Americano",
+    "description": "Un café negro fuerte.",
+    "price": 5.0,
+    "image": "path/to/image1.jpg",
+    "category": "coffee"
+  },
+  {
+    "id": "2",
+    "name": "Café Espresso",
+    "description": "Un café concentrado con mucho sabor.",
+    "price": 3.0,
+    "image": "path/to/image2.jpg",
+    "category": "coffee"
+  },
+  {
+    "id": "3",
+    "name": "Café Latte",
+    "description": "Café suave con leche vaporizada.",
+    "price": 4.5,
+    "image": "path/to/image3.jpg",
+    "category": "coffee"
+  },
+  {
+    "id": "4",
+    "name": "Café Mocha",
+    "description": "Café con chocolate y leche.",
+    "price": 5.5,
+    "image": "path/to/image4.jpg",
+    "category": "coffee"
+  },
+  {
+    "id": "5",
+    "name": "Café Cortado",
+    "description": "Café con un toque de leche.",
+    "price": 4.0,
+    "image": "path/to/image5.jpg",
+    "category": "coffee"
+  },
+  {
+    "id": "6",
+    "name": "Té Verde",
+    "description": "Un té refrescante y saludable.",
+    "price": 3.5,
+    "image": "path/to/image6.jpg",
+    "category": "tea"
+  },
+  {
+    "id": "7",
+    "name": "Té Negro",
+    "description": "Té con un sabor robusto.",
+    "price": 3.0,
+    "image": "path/to/image7.jpg",
+    "category": "tea"
+  },
+  {
+    "id": "8",
+    "name": "Té de Hierbas",
+    "description": "Mezcla de hierbas para un té relajante.",
+    "price": 4.0,
+    "image": "path/to/image8.jpg",
+    "category": "tea"
+  },
+  {
+    "id": "9",
+    "name": "Té Chai",
+    "description": "Té especiado y aromático.",
+    "price": 4.5,
+    "image": "path/to/image9.jpg",
+    "category": "tea"
+  },
+  {
+    "id": "10",
+    "name": "Té de Frutas",
+    "description": "Té con sabores frutales.",
+    "price": 3.5,
+    "image": "path/to/image10.jpg",
+    "category": "tea"
+  },
+  {
+    "id": "11",
+    "name": "Chocolate Amargo",
+    "description": "Chocolate con un alto contenido de cacao.",
+    "price": 2.5,
+    "image": "path/to/image11.jpg",
+    "category": "chocolate"
+  },
+  {
+    "id": "12",
+    "name": "Chocolate con Leche",
+    "description": "Suave y cremoso, perfecto para el frío.",
+    "price": 3.0,
+    "image": "path/to/image12.jpg",
+    "category": "chocolate"
+  },
+  {
+    "id": "13",
+    "name": "Chocolate Blanco",
+    "description": "Dulce y cremoso chocolate blanco.",
+    "price": 3.5,
+    "image": "path/to/image13.jpg",
+    "category": "chocolate"
+  },
+  {
+    "id": "14",
+    "name": "Chocolate Caliente",
+    "description": "Delicioso chocolate caliente.",
+    "price": 4.0,
+    "image": "path/to/image14.jpg",
+    "category": "chocolate"
+  },
+  {
+    "id": "15",
+    "name": "Chocolate con Almendras",
+    "description": "Chocolate con trozos de almendra.",
+    "price": 3.8,
+    "image": "path/to/image15.jpg",
+    "category": "chocolate"
+  },
+  {
+    "id": "16",
+    "name": "Café Caramel Macchiato",
+    "description": "Café con sabor a caramelo y leche.",
+    "price": 5.0,
+    "image": "path/to/image16.jpg",
+    "category": "coffee"
+  },
+  {
+    "id": "17",
+    "name": "Café con Leche",
+    "description": "Café mezclado con leche caliente.",
+    "price": 4.0,
+    "image": "path/to/image17.jpg",
+    "category": "coffee"
+  },
+  {
+    "id": "18",
+    "name": "Té Earl Grey",
+    "description": "Té negro con un toque de bergamota.",
+    "price": 3.8,
+    "image": "path/to/image18.jpg",
+    "category": "tea"
+  },
+  {
+    "id": "19",
+    "name": "Té de Menta",
+    "description": "Té refrescante de menta.",
+    "price": 3.5,
+    "image": "path/to/image19.jpg",
+    "category": "tea"
+  },
+  {
+    "id": "20",
+    "name": "Chocolate con Avellanas",
+    "description": "Chocolate cremoso con avellanas.",
+    "price": 3.9,
+    "image": "path/to/image20.jpg",
+    "category": "chocolate"
+  },
+  {
+    "id": "21",
+    "name": "Café Frappuccino",
+    "description": "Café frío mezclado con helado.",
+    "price": 6.0,
+    "image": "path/to/image21.jpg",
+    "category": "coffee"
+  },
+  {
+    "id": "22",
+    "name": "Té de Limón",
+    "description": "Té refrescante con sabor a limón.",
+    "price": 3.0,
+    "image": "path/to/image22.jpg",
+    "category": "tea"
+  },
+  {
+    "id": "23",
+    "name": "Café Vienés",
+    "description": "Café con crema batida.",
+    "price": 5.5,
+    "image": "path/to/image23.jpg",
+    "category": "coffee"
+  },
+  {
+    "id": "24",
+    "name": "Té de Rosa Mosqueta",
+    "description": "Té de hierbas con rosa mosqueta.",
+    "price": 4.2,
+    "image": "path/to/image24.jpg",
+    "category": "tea"
+  },
+  {
+    "id": "25",
+    "name": "Chocolate con Coco",
+    "description": "Chocolate con un toque de coco.",
+    "price": 3.7,
+    "image": "path/to/image25.jpg",
+    "category": "chocolate"
+  },
+  {
+    "id": "26",
+    "name": "Café Nitro",
+    "description": "Café frío infusionado con nitrógeno.",
+    "price": 5.0,
+    "image": "path/to/image26.jpg",
+    "category": "coffee"
+  },
+  {
+    "id": "27",
+    "name": "Té de Jengibre",
+    "description": "Té picante y cálido de jengibre.",
+    "price": 4.0,
+    "image": "path/to/image27.jpg",
+    "category": "tea"
+  },
+  {
+    "id": "28",
+    "name": "Chocolate con Naranja",
+    "description": "Chocolate con un toque de naranja.",
+    "price": 3.9,
+    "image": "path/to/image28.jpg",
+    "category": "chocolate"
+  },
+  {
+    "id": "29",
+    "name": "Café Cold Brew",
+    "description": "Café preparado en frío para un sabor suave.",
+    "price": 5.5,
+    "image": "path/to/image29.jpg",
+    "category": "coffee"
+  },
+  {
+    "id": "30",
+    "name": "Té de Hibisco",
+    "description": "Té de flores de hibisco.",
+    "price": 3.5,
+    "image": "path/to/image30.jpg",
+    "category": "tea"
+  }
+]
