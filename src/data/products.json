@@ -4,7 +4,7 @@
     "name": "Café Americano",
     "description": "Un café negro fuerte.",
     "price": 5.0,
-    "image": "path/to/image1.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "coffee"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Café Espresso",
     "description": "Un café concentrado con mucho sabor.",
     "price": 3.0,
-    "image": "path/to/image2.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "coffee"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Café Latte",
     "description": "Café suave con leche vaporizada.",
     "price": 4.5,
-    "image": "path/to/image3.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "coffee"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Café Mocha",
     "description": "Café con chocolate y leche.",
     "price": 5.5,
-    "image": "path/to/image4.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "coffee"
   },
   {
@@ -36,7 +36,7 @@
     "name": "Café Cortado",
     "description": "Café con un toque de leche.",
     "price": 4.0,
-    "image": "path/to/image5.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "coffee"
   },
   {
@@ -44,7 +44,7 @@
     "name": "Té Verde",
     "description": "Un té refrescante y saludable.",
     "price": 3.5,
-    "image": "path/to/image6.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "tea"
   },
   {
@@ -52,7 +52,7 @@
     "name": "Té Negro",
     "description": "Té con un sabor robusto.",
     "price": 3.0,
-    "image": "path/to/image7.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "tea"
   },
   {
@@ -60,7 +60,7 @@
     "name": "Té de Hierbas",
     "description": "Mezcla de hierbas para un té relajante.",
     "price": 4.0,
-    "image": "path/to/image8.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "tea"
   },
   {
@@ -68,7 +68,7 @@
     "name": "Té Chai",
     "description": "Té especiado y aromático.",
     "price": 4.5,
-    "image": "path/to/image9.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "tea"
   },
   {
@@ -76,7 +76,7 @@
     "name": "Té de Frutas",
     "description": "Té con sabores frutales.",
     "price": 3.5,
-    "image": "path/to/image10.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "tea"
   },
   {
@@ -84,7 +84,7 @@
     "name": "Chocolate Amargo",
     "description": "Chocolate con un alto contenido de cacao.",
     "price": 2.5,
-    "image": "path/to/image11.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "chocolate"
   },
   {
@@ -92,7 +92,7 @@
     "name": "Chocolate con Leche",
     "description": "Suave y cremoso, perfecto para el frío.",
     "price": 3.0,
-    "image": "path/to/image12.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "chocolate"
   },
   {
@@ -100,7 +100,7 @@
     "name": "Chocolate Blanco",
     "description": "Dulce y cremoso chocolate blanco.",
     "price": 3.5,
-    "image": "path/to/image13.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "chocolate"
   },
   {
@@ -108,7 +108,7 @@
     "name": "Chocolate Caliente",
     "description": "Delicioso chocolate caliente.",
     "price": 4.0,
-    "image": "path/to/image14.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "chocolate"
   },
   {
@@ -116,7 +116,7 @@
     "name": "Chocolate con Almendras",
     "description": "Chocolate con trozos de almendra.",
     "price": 3.8,
-    "image": "path/to/image15.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "chocolate"
   },
   {
@@ -124,7 +124,7 @@
     "name": "Café Caramel Macchiato",
     "description": "Café con sabor a caramelo y leche.",
     "price": 5.0,
-    "image": "path/to/image16.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "coffee"
   },
   {
@@ -132,7 +132,7 @@
     "name": "Café con Leche",
     "description": "Café mezclado con leche caliente.",
     "price": 4.0,
-    "image": "path/to/image17.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "coffee"
   },
   {
@@ -140,7 +140,7 @@
     "name": "Té Earl Grey",
     "description": "Té negro con un toque de bergamota.",
     "price": 3.8,
-    "image": "path/to/image18.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "tea"
   },
   {
@@ -148,7 +148,7 @@
     "name": "Té de Menta",
     "description": "Té refrescante de menta.",
     "price": 3.5,
-    "image": "path/to/image19.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "tea"
   },
   {
@@ -156,7 +156,7 @@
     "name": "Chocolate con Avellanas",
     "description": "Chocolate cremoso con avellanas.",
     "price": 3.9,
-    "image": "path/to/image20.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "chocolate"
   },
   {
@@ -164,7 +164,7 @@
     "name": "Café Frappuccino",
     "description": "Café frío mezclado con helado.",
     "price": 6.0,
-    "image": "path/to/image21.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "coffee"
   },
   {
@@ -172,7 +172,7 @@
     "name": "Té de Limón",
     "description": "Té refrescante con sabor a limón.",
     "price": 3.0,
-    "image": "path/to/image22.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "tea"
   },
   {
@@ -180,7 +180,7 @@
     "name": "Café Vienés",
     "description": "Café con crema batida.",
     "price": 5.5,
-    "image": "path/to/image23.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "coffee"
   },
   {
@@ -188,7 +188,7 @@
     "name": "Té de Rosa Mosqueta",
     "description": "Té de hierbas con rosa mosqueta.",
     "price": 4.2,
-    "image": "path/to/image24.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "tea"
   },
   {
@@ -196,7 +196,7 @@
     "name": "Chocolate con Coco",
     "description": "Chocolate con un toque de coco.",
     "price": 3.7,
-    "image": "path/to/image25.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "chocolate"
   },
   {
@@ -204,7 +204,7 @@
     "name": "Café Nitro",
     "description": "Café frío infusionado con nitrógeno.",
     "price": 5.0,
-    "image": "path/to/image26.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "coffee"
   },
   {
@@ -212,7 +212,7 @@
     "name": "Té de Jengibre",
     "description": "Té picante y cálido de jengibre.",
     "price": 4.0,
-    "image": "path/to/image27.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "tea"
   },
   {
@@ -220,7 +220,7 @@
     "name": "Chocolate con Naranja",
     "description": "Chocolate con un toque de naranja.",
     "price": 3.9,
-    "image": "path/to/image28.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "chocolate"
   },
   {
@@ -228,7 +228,7 @@
     "name": "Café Cold Brew",
     "description": "Café preparado en frío para un sabor suave.",
     "price": 5.5,
-    "image": "path/to/image29.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "coffee"
   },
   {
@@ -236,7 +236,7 @@
     "name": "Té de Hibisco",
     "description": "Té de flores de hibisco.",
     "price": 3.5,
-    "image": "path/to/image30.jpg",
+    "image": "/assets/taza-generica.webp",
     "category": "tea"
   }
 ]

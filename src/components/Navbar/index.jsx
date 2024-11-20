@@ -1,24 +1,29 @@
 import "./Navbar.css";
 import { CartWidget } from "../CartWidget";
+import { Link } from "react-router-dom";
+import { useContext } from "react";
+import { CartContext } from "../../context/CartContext";
 
 export const Navbar = () => {
+  const { getProductsCount } = useContext(CartContext);
+
   return (
     <header className="navbarContainer">
-      <a href="/">
+      <Link to="/">
         <span className="logo">Nombre de la tienda</span>
-      </a>
+      </Link>
       <ul className="categories">
         <li>
-          <a href="/category/tea">Tea</a>
+          <Link to="/category/tea">Tea</Link>
         </li>
         <li>
-          <a href="/category/chocolate">Chocolate</a>
+          <Link to="/category/chocolate">Chocolate</Link>
         </li>
         <li>
-          <a href="/category/coffee">Coffee</a>
+          <Link to="/category/coffee">Coffee</Link>
         </li>
       </ul>
-      <CartWidget itemsCount={6} />
+      <CartWidget itemsCount={getProductsCount()} />
     </header>
   );
 };
