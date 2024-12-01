@@ -1,13 +1,31 @@
 import { useParams } from "react-router-dom";
-import productsData from "../../data/products.json";
 import { useEffect, useState } from "react";
+import { db } from "../../firebaseConfig";
+import { doc, getDoc } from "firebase/firestore";
 
-const itemDetailContainer = () => {
+const ItemDetailContainer = () => {
   const [product, setProduct] = useState(null);
   const { id } = useParams();
+
   useEffect(() => {
-    const product = productsData.find((product) => product.id === id);
-    setProduct(product);
+    const fetchProduct = async () => {
+      try {
+        const docRef = doc(db, "products", id);
+        const docSnap = await getDoc(docRef);
+
+        if (docSnap.exists()) {
+          setProduct({ id: docSnap.id, ...docSnap.data() });
+        } else {
+          console.warn("El producto con el ID especificado no existe.");
+        }
+      } catch (error) {
+        console.error("Error al obtener el producto:", error);
+      }
+    };
+
+    if (id) {
+      fetchProduct();
+    }
   }, [id]);
 
   if (!product) return <p>Cargando...</p>;
@@ -25,4 +43,4 @@ const itemDetailContainer = () => {
   );
 };
 
-export default itemDetailContainer;
+export default ItemDetailContainer;
